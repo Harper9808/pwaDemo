@@ -19,6 +19,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <div>
+        react app- pwa 셋팅 
+      </div>
     </div>
   );
 }
